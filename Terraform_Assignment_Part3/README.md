@@ -364,7 +364,7 @@ CloudWatch log groups
 
 GITHUB REPOSITORY
 
-https://github.com/shubham-007-yad/kubernetes
+git@github.com:shubham-007-yad/terraform.git
 
 
 SUBMISSION NOTE

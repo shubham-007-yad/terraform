@@ -191,7 +191,7 @@ View Terraform outputs
 
 terraform output
 
-GITHUB REPOSITORY
+GITHUB REPOSITORY - git@github.com:shubham-007-yad/terraform.git
 
 
 

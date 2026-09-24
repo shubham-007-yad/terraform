@@ -124,7 +124,7 @@ The Express frontend returned the Submit Details page
 
 Both applications were also tested using the EC2 public IP
 
-GITHUB REPOSITORY
+GITHUB REPOSITORY - git@github.com:shubham-007-yad/terraform.git
 
 
 
