@@ -1,0 +1,30 @@
+# Terraform
+**/.terraform/
+**/*.tfstate
+**/*.tfstate.*
+**/terraform.tfvars
+**/terraform.tfvars.json
+**/.terraform.tfstate.lock.info
+
+# Secrets
+**/.env
+**/.env.*
+!**/.env.example
+
+# Python
+**/__pycache__/
+**/*.pyc
+**/venv/
+**/.venv/
+
+# Node
+**/node_modules/
+
+# Git
+**/.git/
+
+# OS
+.DS_Store
+Thumbs.db
+**/*.pem
+Terraform_Assignment_Part1/flask-git-assignment/k8s/

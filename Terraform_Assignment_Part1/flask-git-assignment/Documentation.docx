@@ -1,0 +1,20 @@
+GITHUB LINK - https://github.com/shubham-007-yad/kubernetes.git
+
+
+
+-             git@github.com:shubham-007-yad/kubernetes.git
+
+
+Created a local Kubernetes cluster using Minikube
+Built Docker images for the frontend and backend
+Loaded both images into Minikube
+Created Flask backend Deployment and Service
+Created frontend Deployment and Service
+Configured MongoDB connection using Kubernetes Secret
+Verified backend and frontend pods are running
+Verified Kubernetes Services are running
+Tested the application successfully through the frontend URL
+Verified frontend communication with the Flask backend
+Created Kubernetes YAML files for Deployment and Service configuration
+Added project source code and required files for final submission
+GitHub Repository: [git@github.com:shubham-007-yad/kubernetes.git]
